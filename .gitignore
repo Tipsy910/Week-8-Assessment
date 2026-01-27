@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# uv specific
+.uv/
+
+# PyCaret / ML artifacts
+logs.log
+mlruns/
+plots/
+*.pkl
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Project specific
+.ipynb_checkpoints/
