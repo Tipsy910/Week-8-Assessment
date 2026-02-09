@@ -1,0 +1,7 @@
+{
+    "model_name": "LogisticRegression",
+    "accuracy": 0.7689,
+    "auc": 0.8047,
+    "f1": 0.6279,
+    "recommendation": "Ready for Deployment"
+}
